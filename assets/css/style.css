@@ -1,5 +1,5 @@
 body{
-    background: black;
+    
 }
 h1{
     color: gold;
@@ -10,6 +10,9 @@ h1{
     align-content: center;
     float: left;
 }
-#messsage{
-    background-color: white;
+#message{
+    color: black;
+    font-size: 4em;
+    text-align: center;
 }
+
